@@ -1,0 +1,7 @@
+shiny
+shinywidgets
+pandas
+matplotlib
+plotly
+seaborn
+ipyleaflet
